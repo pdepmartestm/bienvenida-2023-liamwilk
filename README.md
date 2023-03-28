@@ -7,3 +7,4 @@ Número de legajo: 209.238-4
 - En mis tiempos libres, entreno básquet en un club y también a indagar un poco más en las cosas que me parezcan interesantes.
 - Me gusta mucho la música, tengo una banda con amigos en la cual nos dedicamos a tocar Rock y demás géneros.
 
+<img src="Foto.JPG" width=30% height=40%>
